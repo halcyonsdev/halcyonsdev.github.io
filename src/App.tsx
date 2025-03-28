@@ -48,17 +48,6 @@ function App() {
       ),
       href: "https://t.me/halcyonsdev",
       className: "bg-blue-500 hover:bg-blue-600"
-    },
-    {
-      name: "VK",
-      icon: (
-        <svg viewBox="0 0 24 24" width="24" height="24" stroke="currentColor" fill="none" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-          <path d="M15.07 2H8.93C3.33 2 2 3.33 2 8.93v6.14C2 20.67 3.33 22 8.93 22h6.14c5.6 0 6.93-1.33 6.93-6.93V8.93C22 3.33 20.67 2 15.07 2z"/>
-          <path d="M18 8.5h-2.5c-.83 0-1.5.67-1.5 1.5v2.5h2.5v2.5h-2.5V20h-2.5v-5h-2.5v-2.5h2.5V10c0-2.21 1.79-4 4-4h2.5v2.5z"/>
-        </svg>
-      ),
-      href: "https://vk.com/halcys",
-      className: "bg-[#0077FF] hover:bg-[#0066CC]"
     }
   ];
 
