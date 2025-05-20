@@ -88,6 +88,11 @@ function App() {
 
   const projects: Project[] = [
     {
+      name: "Tinder",
+      description: "The application is a Tinder clone",
+      link: "https://github.com/halcyonsdev/tinder"
+    },
+    {
       name: "Social Network",
       description: "The application is a social network with a lot of features and microservice architecture",
       link: "https://github.com/halcyonsdev/socialnetwork"
@@ -105,7 +110,7 @@ function App() {
     {
       name: "A Few Adventures",
       description: "\"A Few Adventures\" is a Minecraft Forge mod that introduces new mobs, tools, firearms, items, blocks, and much more to the game.",
-      link: "https://github.com/halcyonsdev/gamesaggregator"
+      link: "https://github.com/halcyonsdev/afewadventures"
     },
     {
       name: "KeepFit",
